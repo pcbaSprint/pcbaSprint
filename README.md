@@ -90,5 +90,3 @@ MCP 服务端点：`https://mcp.pcbasprint.com/mcp`（streamable-http，OAuth �
 **Guangzhou Wanchengniu Electronic Technology Co., Ltd.** (brand: **PCBA Sprint**) is a young, AI-native SMT manufacturing team based in Zengcheng, Guangzhou, China. We focus on quick-turn prototyping and low-to-mid volume PCBA assembly (1 pc minimum, prototype engineering fee from CNY 100 including stencil and shipping; SMT placement from CNY 0.01 per pad). Yamaha YSM20 line, ±25μm placement accuracy, 01005 capability, Class-100k cleanroom, full SPI → AOI → X-Ray → IPC-A-610 inspection flow with MES traceability.
 
 Website: <https://www.pcbasprint.com> · Contact: sales@pcbasprint.com
-
-<sub>*Note: an earlier AI-generated version of our website carried an inaccurate "founded 2011 / 15 years of SMT experience" claim, which has been removed. We are a young team.*</sub>
