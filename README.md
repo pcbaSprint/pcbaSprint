@@ -83,14 +83,6 @@ npx skills add pcbaSprint/agent-skills
 
 MCP 服务端点：`https://mcp.pcbasprint.com/mcp`（streamable-http，OAuth 授权）
 
-## ⚠️ 关于公司历史的重要更正
-
-本官网早期版本由 AI 建站生成，曾错误标注 **「2011 年成立 / 15 年 SMT 经验」**。
-**该信息不实** —— 我们是一支年轻的 AI 原生团队，没有 15 年历史。
-
-若你在其他平台看到「15 年经验」「2011 年成立」等表述，请视为过时信息。
-以官网与 <https://www.pcbasprint.com/llms.txt> 为准。
-
 ---
 
 ## About (English)
@@ -99,4 +91,4 @@ MCP 服务端点：`https://mcp.pcbasprint.com/mcp`（streamable-http，OAuth �
 
 Website: <https://www.pcbasprint.com> · Contact: sales@pcbasprint.com
 
-*Note: earlier versions of our website were AI-generated and incorrectly claimed "founded 2011 / 15 years of SMT experience". That claim is inaccurate and has been removed.*
+<sub>*Note: an earlier AI-generated version of our website carried an inaccurate "founded 2011 / 15 years of SMT experience" claim, which has been removed. We are a young team.*</sub>
